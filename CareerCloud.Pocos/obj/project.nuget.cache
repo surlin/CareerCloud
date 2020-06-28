@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BtOzkcBO4kuD4m3mhU2SORnF/IcA07kPzgfITRZJuvA3UccyfjJgo33Z8lTgQsP5r9ZR1rlz8f6UQYhOsJSIYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaushal\\source\\repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaushal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
