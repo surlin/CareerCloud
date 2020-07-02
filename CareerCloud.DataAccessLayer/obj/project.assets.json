@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaushal\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kaushal\\Desktop\\surlin\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
       "projectName": "CareerCloud.DataAccessLayer",
-      "projectPath": "C:\\Users\\Kaushal\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\Kaushal\\Desktop\\surlin\\CareerCloud\\CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Kaushal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaushal\\source\\repos\\CareerCloud\\CareerCloud.DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Kaushal\\Desktop\\surlin\\CareerCloud\\CareerCloud.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaushal\\AppData\\Roaming\\NuGet\\NuGet.Config",
