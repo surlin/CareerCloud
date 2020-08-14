@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xEsv7aDXg1BtI7CGnWSAtyaslG6R1+oAKw+Nn285RHjTu14fEjoA9JD7MuDaPU83LLFsPQZ0Yc/EEwBH9qeS/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaushal\\source\\repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaushal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

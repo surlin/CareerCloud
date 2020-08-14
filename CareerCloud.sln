@@ -7,11 +7,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.Pocos", "Career
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment1", "CareerCloudCore.UnitTests.Assignment1\CareerCloudCore.UnitTests.Assignment1\CareerCloudCore.UnitTests.Assignment1.csproj", "{14BFF540-FE47-4D24-B762-D3B029FC20E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.DataAccessLayer", "CareerCloud.DataAccessLayer\CareerCloud.DataAccessLayer.csproj", "{E009BE65-03FA-4ADD-A301-DBAF51464337}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.DataAccessLayer", "CareerCloud.DataAccessLayer\CareerCloud.DataAccessLayer.csproj", "{E009BE65-03FA-4ADD-A301-DBAF51464337}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.ADODataAccessLayer", "CareerCloud.ADODataAccessLayer\CareerCloud.ADODataAccessLayer.csproj", "{BB105DBB-BE11-49FA-BDBC-5FAC753249DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.ADODataAccessLayer", "CareerCloud.ADODataAccessLayer\CareerCloud.ADODataAccessLayer.csproj", "{BB105DBB-BE11-49FA-BDBC-5FAC753249DA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment2", "CareerCloudCore.UnitTests.Assignment2\CareerCloudCore.UnitTests.Assignment2.csproj", "{B7194457-4554-40ED-8DDD-BB370853F0A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloud.BusinessLogicLayer", "CareerCloud.BusinessLogicLayer\CareerCloud.BusinessLogicLayer.csproj", "{07377603-71DB-47E3-81FC-5FED24492DBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment3", "CareerCloudCore.UnitTests.Assignment3\CareerCloudCore.UnitTests.Assignment3.csproj", "{A461FE42-9F5C-40F3-9FB2-AB00B1B8044A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.EntityFrameworkDataAccess", "CareerCloud.EntityFrameworkDataAccess\CareerCloud.EntityFrameworkDataAccess.csproj", "{9A9C02FA-123B-4D1A-9700-A779C8445771}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment4", "CareerCloudCore.UnitTests.Assignment4\CareerCloudCore.UnitTests.Assignment4.csproj", "{70D5D150-F2F2-4433-8129-AD59B1BC28D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{B7194457-4554-40ED-8DDD-BB370853F0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7194457-4554-40ED-8DDD-BB370853F0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7194457-4554-40ED-8DDD-BB370853F0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07377603-71DB-47E3-81FC-5FED24492DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07377603-71DB-47E3-81FC-5FED24492DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07377603-71DB-47E3-81FC-5FED24492DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07377603-71DB-47E3-81FC-5FED24492DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A461FE42-9F5C-40F3-9FB2-AB00B1B8044A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A461FE42-9F5C-40F3-9FB2-AB00B1B8044A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A461FE42-9F5C-40F3-9FB2-AB00B1B8044A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A461FE42-9F5C-40F3-9FB2-AB00B1B8044A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A9C02FA-123B-4D1A-9700-A779C8445771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A9C02FA-123B-4D1A-9700-A779C8445771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A9C02FA-123B-4D1A-9700-A779C8445771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A9C02FA-123B-4D1A-9700-A779C8445771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D5D150-F2F2-4433-8129-AD59B1BC28D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D5D150-F2F2-4433-8129-AD59B1BC28D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D5D150-F2F2-4433-8129-AD59B1BC28D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D5D150-F2F2-4433-8129-AD59B1BC28D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
